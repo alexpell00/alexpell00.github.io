@@ -1,4 +1,4 @@
-portfolio
+My Portfolio
 =========
 
-My portfolio
+This website is to show what I have done.
